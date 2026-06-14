@@ -63,6 +63,12 @@ A multi-agent intelligence system that detects:
 - Strategic misalignment patterns
 
 ---
+## 🚀 MVP - live deployment
+
+🔗 https://undercurrent-ai-bice.vercel.app/
+
+---
+
 ## 🧠 Architecture Diagram (Interactive Intelligence Flow)
 ```mermaid
 flowchart TD
