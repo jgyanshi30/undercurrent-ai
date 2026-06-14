@@ -67,6 +67,10 @@ A multi-agent intelligence system that detects:
 
 🔗 https://undercurrent-ai-bice.vercel.app/
 
+## Live Demo Video
+
+🔗 https://youtube.com/shorts/4b8LNsVaPkU?si=kkY1zIzD4tKNuOuG
+
 ---
 
 ## 🧠 Architecture Diagram (Interactive Intelligence Flow)
